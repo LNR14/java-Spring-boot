@@ -1,5 +1,8 @@
 package com.example.learnSpringFramework.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class GamerRunner {
 	private GamingConsole game;
 	public GamerRunner(GamingConsole game) {
