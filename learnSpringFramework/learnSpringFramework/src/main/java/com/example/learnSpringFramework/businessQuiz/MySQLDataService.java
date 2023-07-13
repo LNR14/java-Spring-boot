@@ -1,9 +1,11 @@
 package com.example.learnSpringFramework.businessQuiz;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
 
-@Component
+//@Component
+@Repository
 public class MySQLDataService implements DataService{
 
 	@Override

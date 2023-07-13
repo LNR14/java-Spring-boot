@@ -3,8 +3,12 @@ package com.example.learnSpringFramework.businessQuiz;
 import java.util.Arrays;
 
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
+import org.springframework.stereotype.Service;
 
-@Component
+//@Component
+
+@Service
 public class BusinessCalculationServiceFunc {
 	
 	private DataService dataService;
