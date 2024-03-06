@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>Spring boot page</title>
+	</head>
+
+	<body>
+		Spring boot HTML page
+	</body>
+
+
+</html>
